@@ -9,10 +9,6 @@ This project is a simple website aiming to replicate the look and feel of Netfli
 - Responsive design for various screen sizes.
 - Dummy content to mimic Netflix's content sections.
 
-## Preview
-
-![Netflix-like Homepage Preview](netflix-homepage-preview.png)
-
 ## Technologies Used
 
 - HTML5
